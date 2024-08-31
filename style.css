@@ -615,7 +615,7 @@ body {
     align-items: center;
     flex-wrap: nowrap;
     -moz-column-gap: 10px;
-         column-gap: 10px;
+    column-gap: 10px;
     margin-left: 15px;
   }
   #es-armani.es-armani .es-banner__content {
@@ -664,7 +664,7 @@ body {
     margin: 0 auto;
     -o-object-fit: cover;
     object-fit: cover;
-    height: 100%;
+    height: auto;
   }
   #es-armani.es-armani .es-info__title {
     font-size: 30px;
