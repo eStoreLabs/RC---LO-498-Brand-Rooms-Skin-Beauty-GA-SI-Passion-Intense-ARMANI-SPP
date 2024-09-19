@@ -705,7 +705,7 @@ body {
     margin: 0 auto;
     -o-object-fit: cover;
     object-fit: cover;
-    height: 100%;
+    height: auto;
   }
   #es-armani.es-armani .es-info__title {
     font-size: 30px;
